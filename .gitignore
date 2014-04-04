@@ -1,0 +1,6 @@
+*.class
+bin/
+local.properties
+.settings/
+.classpath
+.project
